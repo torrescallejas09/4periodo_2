@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ConsultaBaseDatosTC100321</string>
+    <string name="main_text">Crear nuevos registros</string>
+    <string name="secodAct_text">Digite un mensaje para ser guardado en la base de datos</string>
+</resources>
